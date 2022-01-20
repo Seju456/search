@@ -1,0 +1,31 @@
+nav form{
+    display: flex;
+    height: 35px;
+    border-radius: 5px;
+    padding: 2px;
+    min-width: 18%!important;
+    border: 1px solid #00695c;
+}
+nav form .search-data
+{
+    height: 100%;
+    width: 100%;
+    padding: 0 10px;
+    color:#ffeb3b;
+    font-weight: 500;
+    background: #fff;
+    border: none;
+    font-size: 12x;
+    border-radius: 3px;
+}
+
+nav form button{
+    padding: 0 15px;
+    background: #ffeb3b;
+    border: none;
+    cursor: pointer;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 3px;
+
+}
